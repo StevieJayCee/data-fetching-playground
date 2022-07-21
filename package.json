@@ -1,0 +1,10 @@
+{
+  "name": "data-fetching-playground",
+  "version": "1.0.0",
+  "description": "\"init data fetching playground with base package.json. Not for demo purposes\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
